@@ -69,9 +69,9 @@ Below is a comparative matrix of commercial healthcare flow management platforms
 
 The following open-source projects provide complete applications, domain engines, discrete-event simulators, time-series forecasting tools, and interoperability building blocks for Emergency Department operations. 
 
-Sorted descending by **GitHub Star Count** ⭐.
+Sorted descending by **GitHub Stars_Count** ⭐.
 
-| Project & Repository | Description & ED Use Case | GitHub Stars Badge |
+| Project & Repository | Description & ED Use Case | GitHub_Stars_Badge |
 | :--- | :--- | :--- |
 | **[PyTorch](https://github.com/pytorch/pytorch)** 🤖 | Deep learning framework for complex ED arrival forecasting, length-of-stay modeling, and computer vision. | [![Stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social&color=white)](https://github.com/pytorch/pytorch/stargazers) |
 | **[Grafana](https://github.com/grafana/grafana)** 📊 | Observability and visualization platform suitable for real-time hospital command-center metric displays. | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) |
